@@ -9,7 +9,9 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    <a href="https://github-readme-stats.vercel.app/api?username=PorisulkiP&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=PorisulkiP&show_icons=true&count_private=true"/></a>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PorisulkiP)](https://github.com/anuraghazra/github-readme-stats)
+   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PorisulkiP&layout=compact"/></a>
+
 </p>
 
 <p align='center'>
