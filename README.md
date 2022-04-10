@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PorisulkiP
+#Hi, I’m Aleksey
 - 👀 I’m interested in work... and money... and c++
 - 🌱 I’m currently learning qt c++
 
@@ -6,11 +6,10 @@ Junior Software Engineer with 1 years of commertial experience. I have excellent
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=porisilkip&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=PorisulkiP&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=porisilkip&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/porisilkip/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=porisilkip&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=PorisulkiP&show_icons=true&count_private=true"/></a>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PorisulkiP)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align='center'>
