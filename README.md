@@ -1,4 +1,4 @@
-#Hi, I’m Aleksey
+# Hi, I’m Aleksey
 - 👀 I’m interested in work... and money... and c++
 - 🌱 I’m currently learning qt c++
 
